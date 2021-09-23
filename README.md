@@ -30,7 +30,9 @@ This project implements an iterative DNS and DNSSEC resolver for resolving A, NS
 
 # Installation and setup
 
-```$ pip3 install -r requirements.txt```
+```
+$ pip3 install -r requirements.txt
+```
 
 # Usage
 
