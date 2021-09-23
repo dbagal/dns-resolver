@@ -1,0 +1,18 @@
+Querying 'cnn.com' for NS-record
+
+Redirecting to 198.41.0.4
+Redirecting to 192.5.6.30
+
+QUESTION SECTION:
+cnn.com.		IN	NS
+
+ANSWER SECTION:
+ns-47.awsdns-05.com.
+ns-576.awsdns-08.net.
+ns-1630.awsdns-11.co.uk.
+ns-1086.awsdns-07.org.            
+
+Query time: 3472 msec
+WHEN: Thu Sep 23 10:13:57 2021
+
+MSG SIZE rcvd: 139

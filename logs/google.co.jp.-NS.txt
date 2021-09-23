@@ -1,0 +1,19 @@
+Querying 'google.co.jp' for NS-record
+
+Redirecting to 198.41.0.4
+Redirecting to 203.119.1.1
+Redirecting to 216.239.36.10
+
+QUESTION SECTION:
+google.co.jp.		IN	NS
+
+ANSWER SECTION:
+ns4.google.com.
+ns3.google.com.
+ns2.google.com.
+ns1.google.com.            
+
+Query time: 731 msec
+WHEN: Thu Sep 23 10:13:32 2021
+
+MSG SIZE rcvd: 112

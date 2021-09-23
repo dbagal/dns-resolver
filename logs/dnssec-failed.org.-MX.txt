@@ -1,0 +1,15 @@
+Querying 'dnssec-failed.org' for MX-record
+
+Redirecting to 198.41.0.4
+Redirecting to 199.19.57.1
+
+QUESTION SECTION:
+dnssec-failed.org.		IN	MX
+
+ANSWER SECTION:
+            
+
+Query time: 302 msec
+WHEN: Thu Sep 23 00:06:41 2021
+
+MSG SIZE rcvd: 49

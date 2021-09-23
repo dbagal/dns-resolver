@@ -1,0 +1,18 @@
+Querying 'verisigninc.com' for NS-record
+
+Redirecting to 198.41.0.4
+Redirecting to 192.5.6.30
+
+QUESTION SECTION:
+verisigninc.com.		IN	NS
+
+ANSWER SECTION:
+av1.nstld.com.
+av2.nstld.com.
+av3.nstld.com.
+av4.nstld.com.            
+
+Query time: 285 msec
+WHEN: Thu Sep 23 00:06:44 2021
+
+MSG SIZE rcvd: 108

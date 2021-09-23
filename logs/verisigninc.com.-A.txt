@@ -1,0 +1,16 @@
+Querying 'verisigninc.com' for A-record
+
+Redirecting to 198.41.0.4
+Redirecting to 192.12.94.30
+
+QUESTION SECTION:
+verisigninc.com.		IN	A
+
+ANSWER SECTION:
+209.131.162.45
+69.58.187.40            
+
+Query time: 497 msec
+WHEN: Thu Sep 23 00:06:43 2021
+
+MSG SIZE rcvd: 76

@@ -1,0 +1,17 @@
+Querying 'amazon.com' for A-record
+
+Redirecting to 198.41.0.4
+Redirecting to 192.12.94.30
+
+QUESTION SECTION:
+amazon.com.		IN	A
+
+ANSWER SECTION:
+54.239.28.85
+176.32.103.205
+205.251.242.103            
+
+Query time: 2718 msec
+WHEN: Thu Sep 23 10:05:16 2021
+
+MSG SIZE rcvd: 92

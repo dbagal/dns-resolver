@@ -1,0 +1,18 @@
+Querying 'cnn.com' for A-record
+
+Redirecting to 198.41.0.4
+Redirecting to 192.12.94.30
+
+QUESTION SECTION:
+cnn.com.		IN	A
+
+ANSWER SECTION:
+151.101.129.67
+151.101.193.67
+151.101.1.67
+151.101.65.67            
+
+Query time: 904 msec
+WHEN: Thu Sep 23 10:13:54 2021
+
+MSG SIZE rcvd: 105

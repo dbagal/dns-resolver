@@ -1,0 +1,15 @@
+Querying 'sohu.com' for A-record
+
+Redirecting to 198.41.0.4
+Redirecting to 192.12.94.30
+
+QUESTION SECTION:
+sohu.com.		IN	A
+
+ANSWER SECTION:
+211.159.191.77            
+
+Query time: 818 msec
+WHEN: Thu Sep 23 00:47:54 2021
+
+MSG SIZE rcvd: 63

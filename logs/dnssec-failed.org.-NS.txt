@@ -1,0 +1,19 @@
+Querying 'dnssec-failed.org' for NS-record
+
+Redirecting to 198.41.0.4
+Redirecting to 199.19.56.1
+
+QUESTION SECTION:
+dnssec-failed.org.		IN	NS
+
+ANSWER SECTION:
+dns101.comcast.net.
+dns102.comcast.net.
+dns103.comcast.net.
+dns104.comcast.net.
+dns105.comcast.net.            
+
+Query time: 231 msec
+WHEN: Thu Sep 23 00:06:41 2021
+
+MSG SIZE rcvd: 148

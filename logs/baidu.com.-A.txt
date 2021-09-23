@@ -1,0 +1,16 @@
+Querying 'baidu.com' for A-record
+
+Redirecting to 198.41.0.4
+Redirecting to 192.5.6.30
+
+QUESTION SECTION:
+baidu.com.		IN	A
+
+ANSWER SECTION:
+220.181.38.251
+220.181.38.148            
+
+Query time: 571 msec
+WHEN: Thu Sep 23 00:47:50 2021
+
+MSG SIZE rcvd: 78

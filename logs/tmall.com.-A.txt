@@ -1,0 +1,16 @@
+Querying 'tmall.com' for A-record
+
+Redirecting to 198.41.0.4
+Redirecting to 192.5.6.30
+
+QUESTION SECTION:
+tmall.com.		IN	A
+
+ANSWER SECTION:
+140.205.94.193
+140.205.130.99            
+
+Query time: 411 msec
+WHEN: Thu Sep 23 00:47:39 2021
+
+MSG SIZE rcvd: 78

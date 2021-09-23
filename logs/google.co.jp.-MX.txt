@@ -1,0 +1,16 @@
+Querying 'google.co.jp' for MX-record
+
+Redirecting to 198.41.0.4
+Redirecting to 203.119.1.1
+Redirecting to 216.239.34.10
+
+QUESTION SECTION:
+google.co.jp.		IN	MX
+
+ANSWER SECTION:
+0 smtp.google.com.            
+
+Query time: 811 msec
+WHEN: Thu Sep 23 10:13:35 2021
+
+MSG SIZE rcvd: 67

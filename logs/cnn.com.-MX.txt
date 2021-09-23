@@ -1,0 +1,16 @@
+Querying 'cnn.com' for MX-record
+
+Redirecting to 198.41.0.4
+Redirecting to 192.5.6.30
+
+QUESTION SECTION:
+cnn.com.		IN	MX
+
+ANSWER SECTION:
+10 mxa-00241e02.gslb.pphosted.com.
+10 mxb-00241e02.gslb.pphosted.com.            
+
+Query time: 214 msec
+WHEN: Thu Sep 23 10:14:02 2021
+
+MSG SIZE rcvd: 118
